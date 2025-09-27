@@ -1,0 +1,7 @@
+{
+  "name": "AI Salon Style Visualizer",
+  "description": "An AI-powered application that allows users to upload a photo and visualize different hairstyles, colors, and makeup to find their perfect new look before visiting the salon.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
